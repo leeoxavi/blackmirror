@@ -39,6 +39,6 @@ MIRROR? EXPLIQUE.
 		print("6 - Os temas principais explorados neste episódio de Black Mirror incluem a invasão de privacidade, os perigos do entretenimento reality sem limites éticos, e a desumanização que ocorre quando a vida de uma pessoa é transformada em um espetáculo.")	
 	elif(opcaoEscolhida == 7):
 		print("O episódio termina de maneira típica para a série Black Mirror, pois revela as consequências perturbadoras e muitas vezes sombrias das tecnologias emergentes e suas interações com a sociedade. No entanto, ao contrário de alguns episódios que terminam com um final totalmente sombrio, ''Joan is Awful'' termina com uma nota de esperança, sugerindo que Joan pode encontrar uma forma de recuperar o controle de sua vida.")	        
-		break
+		
 	else:
 		print("!!!  O P Ç Ã O  I N V Á L I D A ")
